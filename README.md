@@ -48,6 +48,6 @@ However, I will not accept:
 If your pull request is accepted and merged you will see your chages:
 
 - In the [tryapullrequest](https://github.com/lorenzojkrl/tryapullrequest) repository
-- Online on [tryapullrequest.netlify.app](https://tryapullrequest.netlify.app/). Note that it might take a while for Netlify to deploy your changes after I merge your pull request.
+- Online on [tryapullrequest.netlify.app](https://tryapullrequest.netlify.app/).
 
-Good coding!!
+Happy vibe coding.
